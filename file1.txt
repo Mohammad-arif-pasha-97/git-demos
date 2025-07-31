@@ -2,4 +2,9 @@ Hello Git from mohammad
 
 now it is editting by festure-1
 
+
 file is editting by main for merge conflict
+
+feature-1 is practicing merge conflict with master
+
+conflict is resolved by main manually
