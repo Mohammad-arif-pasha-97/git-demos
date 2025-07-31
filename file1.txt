@@ -1,3 +1,5 @@
 Hello Git from mohammad
 
 now it is editting by festure-1
+
+feature-1 is practicing merge conflict with master
