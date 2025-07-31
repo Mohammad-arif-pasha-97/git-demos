@@ -7,6 +7,9 @@ file is editting by main for merge conflict
 
 feature-1 is practicing merge conflict with master
 
+try to get the feature into hub ----- ok the conflict are resolve from hub and pr accepted:
+
 conflict is resolved by main manually
 
 editting by the clone
+
