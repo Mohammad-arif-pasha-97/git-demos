@@ -8,3 +8,5 @@ file is editting by main for merge conflict
 feature-1 is practicing merge conflict with master
 
 conflict is resolved by main manually
+
+editting by the clone
